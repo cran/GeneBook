@@ -1,0 +1,14 @@
+c0ca11ddf9d26719d2196b728d375ff3 *DESCRIPTION
+edbb0e30dfa67a5d5c7106460d9801f6 *NAMESPACE
+429f4c61edd6a3442c93c84d844c6918 *R/GeneCard_Search_System_copy.r
+fba55b674a2f12871fdbb541a2519d89 *build/partial.rdb
+2d385b634a4e821faecc78dc20a37998 *man/GeneBook-package.Rd
+fcf33755913cdc99336156ee1f95a12a *man/GeneCard_ID_Convert.Rd
+6b9ee94a1ec9078d52694908c3cf334b *man/GeneCard_Symbol_Details.Rd
+48c722f058c7d0cd0110f52d037e8c8f *man/GeneCard_main.Rd
+ae4fd2aab4bb01eaf7682abd1bec76a8 *man/dir.choose.rd
+66c7179894bfeb26b748c51ea8d24515 *man/f.dir.create.Rd
+f6259a5857e2e6294480d5992c4e6b9d *man/genecard_description_summary.Rd
+836172cfe54738ba3b52a9be5ddc35a4 *man/genecard_id.Rd
+068b3042f1aadda71d1e1be9137f5bf0 *man/genecard_miss.Rd
+a358b2c10acc157cb759a0741fb0353d *man/get_os.Rd
